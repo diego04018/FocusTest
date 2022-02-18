@@ -3,7 +3,7 @@ aa
 
 to execute this script its recommended to have installed node v14.16.1 or later to avoid any errors
 its also recommended to have installed visual studio code although any idle will work
-
+bbbbbbbbbbbb
 -from the git repository click on the Code button and copy the link to clone the repository
 -create a new folder to store the project
 -open visual studio code and click on file -> open folder and go to the folder created previously
